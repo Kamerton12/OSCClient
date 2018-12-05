@@ -15,7 +15,7 @@
         android:layout_marginBottom="16dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="192.168.137.172"
+        android:text="192.168.0.29"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/port"
         app:layout_constraintHorizontal_bias="0.5"
